@@ -1,7 +1,7 @@
 # 110% efficiency
 *~sjsanc, 2020*
 
-This concerns the following kata on CodeWars.com: [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/solutions/ruby)
+This concerns the following kata on CodeWars.com: [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/ruby)
 
 The top rated solution is the most simple one.
 
