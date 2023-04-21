@@ -1,6 +1,6 @@
 require "benchmark"
 
-# The solution that
+# The solution with the most "best practises" votes.
 def top_solution(num)
   num.to_s
 end
