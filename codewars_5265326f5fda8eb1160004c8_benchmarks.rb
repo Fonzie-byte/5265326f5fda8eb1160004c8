@@ -51,6 +51,6 @@ puts Benchmark.measure {
 puts "dmccraw"
 puts Benchmark.measure {
   to_test.each do |num|
-    top_solution(num)
+    dmccraw(num)
   end
 }

@@ -21,9 +21,9 @@ to benchmark both answers.
 
 ```
 top_solution
-  0.000010   0.000002   0.000012 (  0.000010)
+  0.000151   0.000019   0.000170 (  0.000165)
 dmccraw
-  0.000008   0.000001   0.000009 (  0.000008)
+  0.001535   0.000000   0.001535 (  0.001534)
 ```
 
-To my surprise, dmccraw's solution was indeed a bit faster to compute!
+Sadly, dmccraw's solution was quite a bit slower compute!
